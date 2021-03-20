@@ -1,0 +1,3 @@
+include ':kfragment_lib'
+include ':app'
+rootProject.name = "KFragment"
